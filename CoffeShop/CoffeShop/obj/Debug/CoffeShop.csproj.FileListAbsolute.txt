@@ -1,0 +1,12 @@
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\SanArima\Documents\Tiếng Anh Chuyên Ngành\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+E:\Documents Ổ E\San-H-_CoffeShop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+E:\Documents Ổ E\San-H-_CoffeShop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+E:\Documents Ổ E\San-H-_CoffeShop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
